@@ -169,6 +169,7 @@ header.sticky{
 .row img:hover{
     transform: scale(0.9);
 }
+/* til senere obliger
 .product-text h5{
     position: absolute;
     top: 13px;
@@ -181,6 +182,7 @@ header.sticky{
     padding: 3px 10px;
     border-radius: 2px;
 }
+/*
 /*stjærne rating for neste oblig  
 .ratting i{
     color: #FF8C00;
