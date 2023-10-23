@@ -296,3 +296,10 @@ header.sticky{
     }
 }
 
+.about-section {
+    padding: 100px;
+    text-align: justify;
+    background-color: #edf2fc;
+    color: rgb(0, 0, 0);
+  }
+  
